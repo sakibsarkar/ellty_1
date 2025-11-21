@@ -1,9 +1,9 @@
-import React from 'react';
+import Form from "components/home/Form";
 
 const HomeView = () => {
   return (
-    <div>
-      
+    <div className="w-full flex justify-center mt-[200px]">
+      <Form />
     </div>
   );
 };
