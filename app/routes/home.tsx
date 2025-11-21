@@ -2,8 +2,8 @@ import HomeView from "~/home/HomeView";
 
 export function meta() {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Ellty task-1 | Home" },
+    { name: "description", content: "Welcome to Ellty task-1" },
   ];
 }
 

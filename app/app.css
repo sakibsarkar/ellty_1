@@ -4,3 +4,9 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+
+@theme {
+  --color-brand-1: #ffce22;
+  --color-brand-2: #2469f6;
+  --color-brand-3: #1f2128;
+}
